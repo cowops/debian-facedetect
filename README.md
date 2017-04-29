@@ -23,7 +23,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: loranger.debian-facedetect }
+         - { role: cowops.debian-facedetect }
 
 Tasks
 -----
